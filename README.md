@@ -33,6 +33,7 @@ This repository contains descriptive notes of almost every ES6 JavaScript topic(
 - It will be specified in the notes whether a function/method is deprecated or non-functional
 - There will be exercises
 - There will be Projects
+- The notes aren't complete yet and will be posted consistently
 
 ## Folder Structure
 Each JavaScript folder/file is named with the following naming convention:
