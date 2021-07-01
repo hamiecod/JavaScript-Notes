@@ -46,7 +46,7 @@ There will be about 55 to 60 tutorial notes. The topics are as follows:
 1. [Introduction to Javascript](https://github.com/hamiecod/JavaScript-Notes/tree/main/intro1/intro1.js)
 2. [Console Object](https://github.com/hamiecod/JavaScript-Notes/tree/main/console2/console2.js)
 3. [Variables](https://github.com/hamiecod/JavaScript-Notes/tree/main/variables3/variables3.js)
-4. Data Types
+4. [Data Types](https://github.com/hamiecod/JavaScript-Notes/tree/main/dataTypes4/dataTypes4.js)
 5. Type Conversion and Coercion
 6. Strings
 7. Arrays and Objects
