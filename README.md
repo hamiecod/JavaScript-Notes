@@ -3,10 +3,11 @@
     <br>
     <img src="https://img.shields.io/badge/-javascript-%23d5ab09">
     <img src="https://img.shields.io/github/license/hamiecod/Javascript-Notes">
-    <br>
     <img src="https://img.shields.io/github/issues/hamiecod/Javascript-Notes">
+    <br>
     <img src="https://img.shields.io/github/forks/hamiecod/Javascript-Notes">
     <img src="https://img.shields.io/github/stars/hamiecod/Javascript-Notes">
+    <img src="https://wakatime.com/badge/github/hamiecod/JavaScript-Notes.svg">
     <br>
     <a href="https://twitter.com/intent/tweet?text=Check%20Out%20these%20descriptive%20ES6%20JavaScript%20notes%20by%20@hargunbeer.%20They%20are%20really%20helpful%20for%20beginners.%20&url=https%3A%2F%2Fgithub.com%2Fhamiecod%2FJavaScript-Notes">
         <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhamiecod%2FJavascript-Notes%2F">
