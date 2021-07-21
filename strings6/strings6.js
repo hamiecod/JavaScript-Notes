@@ -213,7 +213,7 @@ console.log(html.padStart(71, "hi"));
 // this method continuously adds the padString at the beginning of the string until it reaches the maxLength specified
 
 console.log(html.repeat(2));
-// string.count(count)
+// string.repeat(count)
 // this method returns a new string with $Pcount} number of copies of the string in the same string
 
 console.log(html.small());

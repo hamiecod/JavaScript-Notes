@@ -1,5 +1,5 @@
 // type conversion in JavaScript
-console.log("Welcome to tutorial 5");
+console.log("Welcome   tutorial 5");
 let myVar;
 myVar = String(34);
 // here we are changing the data type of 34 that is a number to a String data type

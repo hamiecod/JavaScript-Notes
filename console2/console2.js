@@ -118,3 +118,18 @@ console.debug('bruhhh');
 
 // ending the profile
 console.profileEnd('hargun');
+// profile and profileEnd can give a message in the console at weird times seeing the hierarcy of the code
+// this is because profile and porfileEnd are syncronously called
+
+console.dir(Math);
+console.dir(Array);
+// console.dir returns the functions and methods inside a predefined javasript object
+// console.dir(predefined javascript object)
+
+function foo(){
+    function bar(){
+        console.trace();
+    } 
+    bar();
+}
+foo();

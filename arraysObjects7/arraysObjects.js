@@ -326,3 +326,7 @@ console.log(info['is Active']);
 // Where to use arrays and objects
 // when you just want to store some values, use arrays
 // when you want to store some data in key-value pairs, use objects
+
+array.forEach(element => {
+  
+});
