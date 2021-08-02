@@ -52,7 +52,7 @@ There will be about 55 to 60 tutorial notes. The topics are as follows:
 6. [Strings](https://github.com/hamiecod/JavaScript-Notes/tree/main/strings6/strings6.js)
 7. [Arrays and Objects](https://github.com/hamiecod/JavaScript-Notes/tree/main/arraysObjects7/arraysObjects7.js)
 8. [Conditionals](https://github.com/hamiecod/JavaScript-Notes/tree/main/conditionals8/conditionals8.js)
-9. Loops
+9. [Loops](https://github.com/hamiecod/JavaScript-Notes/tree/main/loops9/loops9.js)
 10. Functions
 11. DOM window object manipulation
 12. Understanding DOM
