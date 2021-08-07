@@ -60,7 +60,7 @@ There will be about 55 to 60 tutorial notes. The topics are as follows:
 14. [HTML Selectors](https://github.com/hamiecod/JavaScript-Notes/tree/main/DOMSelectors14/DOMSelectors14.js)
 15. [Children, Parent and Traversing the DOM](https://github.com/hamiecod/JavaScript-Notes/main/tree/traversing15/traversing15.js)
 16. [Creating, Removing and Replacing Elements](https://github.com/hamiecod/JavaScript-Notes/main/tree/DOMElements16/DOMElements16.js)
-17. Events and Event Object
+17. [Events and Event Object](https://github.com/hamiecod/JavaScript-Notes/main/tree/events17/events17.js)
 18. More on Events
 19. Smart Page Crawler
 20. Local and Session Storage
