@@ -59,7 +59,7 @@ There will be about 55 to 60 tutorial notes. The topics are as follows:
 13. [WebPage Crawler-1](https://github.com/hameicod/JavaScript-Notes/tree/main/webCrawler1-13/webCrawler1-13.js)
 14. [HTML Selectors](https://github.com/hamiecod/JavaScript-Notes/tree/main/DOMSelectors14/DOMSelectors14.js)
 15. [Children, Parent and Traversing the DOM](https://github.com/hamiecod/JavaScript-Notes/main/tree/traversing15/traversing15.js)
-16. Creating, Removing and Replacing Elements
+16. [Creating, Removing and Replacing Elements](https://github.com/hamiecod/JavaScript-Notes/main/tree/DOMElements16/DOMElements16.js)
 17. Events and Event Object
 18. More on Events
 19. Smart Page Crawler
