@@ -61,51 +61,50 @@ There will be about 55 to 60 tutorial notes. The topics are as follows:
 15. [Children, Parent and Traversing the DOM](https://github.com/hamiecod/JavaScript-Notes/main/tree/traversing15/traversing15.js)
 16. [Creating, Removing and Replacing Elements](https://github.com/hamiecod/JavaScript-Notes/main/tree/DOMElements16/DOMElements16.js)
 17. [Events and Event Object](https://github.com/hamiecod/JavaScript-Notes/main/tree/events17/events17.js)
-18. [More on Events](https://github.com/hamiecod/JavaScript-Notes/main/tree/moreEvents19/moreEvents19.js)
-19. Smart Page Crawler
-20. Local and Session Storage
-21. Creating editable div
-22. [Project1- Notes Taking App](#)
-23. Math Object
-24. Date Object
-25. Creating an editable div-2
-26. Improving notes website
-27. Object Literals and Constructors
-28. Object Prototype
-29. Notes App
-30. Prototype Inheritance
-31. ES6 Classes and Inheritance
-32. Implimenting a library class
-33. [Project2- College Library Website](#)
-34. What is Asynchrounous Programming?
-35. AJAX
-36. Library Class Implementation
-37. Callback functions
-38. Using a dictionary API
-39. Promises
-40. [Project3- Creating a News Website]
-41. Arrow Functions
-42. Fetch API
-43. Async/Await
-44. Error Handling and Try Catch
-45. Using JavaScript Objects
-46. JavaScript Regular Expressions and related functions
-47. Regular Expressions- Metacharacters in JavaScript
-48. Regular Expressions - Character Sets
-49. Regular Expressions - Shorthand character classes
-50. [Project4- Form Validation using regular expressions](#)
-51. Iterators
-52. Creating an Alarm App
-53. Generators
-54. Alarm Clock
-55. [Project5- Creating a CV Screener](#)
-56. For of vs For in loop
-57. Maps
-58. Sets
-59. Symbols
-60. Destructuring
-61. Javascript Wall Clock
-62. Creating a Clock
-63. [Project6- Postman Clone](#)
-64. Drag and Drop elements with JavaScript
-65. [Project7- Creating a Calculator](#)
+18. [More on Events](https://github.com/hamiecod/JavaScript-Notes/main/tree/moreEvents18/moreEvents18.js)
+19. [Local and Session Storage](https://github.com/hamiecod/JavaScript-Notes/main/tree/storage19/storage19.js)
+20. [Creating editable div]
+21. [Project1- Notes Taking App](#)
+22. Math Object
+23. Date Object
+24. Creating an editable div-2
+25. Improving notes website
+26. Object Literals and Constructors
+27. Object Prototype
+28. Notes App
+29. Prototype Inheritance
+30. ES6 Classes and Inheritance
+31. Implimenting a library class
+32. [Project2- College Library Website](#)
+33. What is Asynchrounous Programming?
+34. AJAX
+35. Library Class Implementation
+36. Callback functions
+37. Using a dictionary API
+38. Promises
+39. [Project3- Creating a News Website]
+40. Arrow Functions
+41. Fetch API
+42. Async/Await
+43. Error Handling and Try Catch
+44. Using JavaScript Objects
+45. JavaScript Regular Expressions and related functions
+46. Regular Expressions- Metacharacters in JavaScript
+47. Regular Expressions - Character Sets
+48. Regular Expressions - Shorthand character classes
+49. [Project4- Form Validation using regular expressions](#)
+50. Iterators
+51. Creating an Alarm App
+52. Generators
+53. Alarm Clock
+54. [Project5- Creating a CV Screener](#)
+55. For of vs For in loop
+56. Maps
+57. Sets
+58. Symbols
+59. Destructuring
+60. Javascript Wall Clock
+61. Creating a Clock
+62. [Project6- Postman Clone](#)
+63. Drag and Drop elements with JavaScript
+64. [Project7- Creating a Calculator](#)
