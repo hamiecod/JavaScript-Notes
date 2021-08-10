@@ -63,7 +63,7 @@ There will be about 55 to 60 tutorial notes. The topics are as follows:
 17. [Events and Event Object](https://github.com/hamiecod/JavaScript-Notes/main/tree/events17/events17.js)
 18. [More on Events](https://github.com/hamiecod/JavaScript-Notes/main/tree/moreEvents18/moreEvents18.js)
 19. [Local and Session Storage](https://github.com/hamiecod/JavaScript-Notes/main/tree/storage19/storage19.js)
-20. [Creating editable div]
+20. [Creating editable div](https://github.com/hamiecod/JavaScript-Notes/main/tree/editableDiv20/editableDiv20.js)
 21. [Project1- Notes Taking App](#)
 22. Math Object
 23. Date Object
